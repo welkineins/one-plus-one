@@ -1,0 +1,38 @@
+{
+	"name": "one-plus-one",
+	"version": "0.0.1",
+	"description": "A demo example for node.js module, it do 1 + 1 = 2",
+	"author": {
+		"name": "Chieh Yu",
+		"email": "welkineins@gmail.com",
+		"url": "http://www.welkin.tw"
+	},
+	"contributors": [
+		{
+			"name": "Chieh Yu",
+			"email": "welkineins@gmail.com",
+			"url": "http://www.welkin.tw"
+		}	
+	],
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/welkineins/one-plus-one.git"
+	},
+	"keyword": [
+		"demo",
+		"module"
+	],
+	"dependencies": {},
+	"devDependencies": {},
+	"licenses": "MIT",
+	"engines": {
+		"node": "~0.10.8"
+	},
+	"//": [
+		"More information about how to write a package.json from:",
+		"https://npmjs.org/doc/json.html",
+		"http://package.json.nodejitsu.com/",
+		"or generator by 'npm init'"
+	]
+}
